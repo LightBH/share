@@ -8,4 +8,6 @@
 
 ---
 
-Git：https://github.com/LightBH/share.git
+Github：https://github.com/LightBH/share.git
+
+Gitee：https://gitee.com/LightBreezeH/share.git
