@@ -8,6 +8,7 @@
 **2）在屏幕顶部菜单栏中，点击`小飞机`图标，查看下拉菜单：** 
 
 -   确保`Shadowsocks:On`、勾选`PAC自动模式`、已选择`服务器` 
+
       <img src="assets/image-20241022175737117.png" alt="image-20241022175737117" style="width:30%; height: auto;"> 
 
 -   若`Shadowsocks:Off`，选择`打开Shadowsocks`即可
@@ -15,6 +16,7 @@
     <img src="assets/image-20241022175613844.png" alt="image-20241022175613844" style="width:30%; height: auto;"> 
 
 **3）浏览器访问[google](https://www.google.com)，若成功访问，则说明软件启动成功。** 
+
 <img src="assets/image-20241022175943819.png" alt="image-20241022175943819" style="width:40%; height: auto;"> 
 
 
@@ -29,10 +31,12 @@
 
 # <span id="peizhi">配置 ShadowsocksX-NG</span> 
 
-**1）在屏幕顶部菜单栏中，点击`小飞机`图标，在下拉菜单中选择`服务器设置`** 
+**1）在屏幕顶部菜单栏中，点击`小飞机`图标，在下拉菜单中选择`服务器设置`**
+
 <img src="assets/image-20241022180640524.png" alt="image-20241022180640524" style="width:50%; height: auto;"> 
 
 **2）在打开的 服务器设置 窗口中，根据服务器信息，修改或添加服务器：** 
+
 <img src="assets/image-20241022181134158.png" alt="image-20241022181134158" style="width:80%; height: auto;"> 
 
 设置完成后，点击`确定`即可
