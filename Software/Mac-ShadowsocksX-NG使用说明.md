@@ -1,4 +1,6 @@
-# 启动 ShadowsocksX-NG
+# Mac电脑之ShadowsocksX-NG使用说明
+
+## 启动 ShadowsocksX-NG
 
 **1）安装并配置完成后，在启动台中找到程序`ShadowsocksX-NG`并点击；** 
 <img src="assets/image-20241022174455711.png" alt="image-20241022174455711" style="width:80%; height: auto;"> 
@@ -21,7 +23,7 @@
 
 
 
-# 关闭 ShadowsocksX-NG
+## 关闭 ShadowsocksX-NG
 
 **在屏幕顶部菜单栏中，点击`小飞机`图标，在下拉菜单中选择`关闭Shadowsocks`或`退出`** 
 
@@ -29,7 +31,7 @@
 
 
 
-# <span id="peizhi">配置 ShadowsocksX-NG</span> 
+## <span id="peizhi">配置 ShadowsocksX-NG</span> 
 
 **1）在屏幕顶部菜单栏中，点击`小飞机`图标，在下拉菜单中选择`服务器设置`**
 
